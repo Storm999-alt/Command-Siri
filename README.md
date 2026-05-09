@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Download
@@ -53,32 +53,72 @@ xattr -d com.apple.quarantine /Applications/Command\ Siri.app
 open /Applications/Command\ Siri.app
 ```
 
+--- 
+
 ## Usage
 
-Voice mode
-Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd>
+**Voice mode**
+1. Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd>
+2. Speak a command
+3. Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd> again to execute
 
-Speak a command
+**Text mode**
+1. Press <kbd>T</kbd>
+2. Type your command
+3. Press <kbd>Enter</kbd> to execute
 
-Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd> again to execute
+**Settings**
 
-Text mode
-Press <kbd>T</kbd>
+-- Click the slider icon (bottom center) to adjust:
+-- Microphone sensitivity
+-- Visual effects intensity
+-- Sound hints
+-- Quiet start
+-- Window behavior on focus loss
 
-Type your command
+---
 
-Press <kbd>Enter</kbd> to execute
+## Commands reference
 
-## Settings
+**System**
+```text
+shutdown                    → Shuts down your Mac
+restart                     → Restarts your Mac
+sleep                       → Puts your Mac to sleep
+lock screen                 → Locks the screen
+brightness 50               → Sets brightness (0-100)
+volume 30                   → Sets volume (0-100)
+mute                        → Mutes audio
+unmute                      → Unmutes audio
+```
 
-Click the slider icon (bottom center) to adjust:
+**Applications**
+```text
+open Safari                 → Launches Safari
+close Safari                → Quits Safari
+open Chrome and find cats   → Searches in Chrome
+```
 
-Microphone sensitivity
+**Files & Folders**
+```text
+create file test.txt        → Creates file on Desktop
+open folder Projects        → Opens ~/Documents/Projects
+zip folder Downloads        → Archives Downloads folder
+take screenshot             → Saves screenshot to Desktop
+```
 
-Visual effects intensity
+**System Info**
+```text
+battery                     → Shows battery percentage
+time                        → Shows current time
+date                        → Shows today's date
+disk space                  → Shows free disk space
+memory / ram                → Shows memory usage
+```
 
-Sound hints
-
-Quiet start
-
-Window behavior on focus loss
+**Weather**
+```text
+weather London              → Shows temperature and conditions
+weather moscow              → Works for any city
+```
+*Internet required for weather only*

@@ -119,30 +119,38 @@ open /Applications/Command\ Siri.app
 ---
 
 <p align="center">
-  <strong>■ ■ ■  &nbsp; N A T U R A L &nbsp; L A N G U A G E &nbsp; E X A M P L E S &nbsp; ■ ■ ■ </strong>
+  <strong>◈ ◈ ◈  &nbsp; N A T U R A L &nbsp; L A N G U A G E &nbsp; E X A M P L E S &nbsp; ◈ ◈ ◈</strong>
 </p>
 
 <p align="center">
-  <sub>speak as you wish</sub>
+  <sub>speak as you wish — the parser understands you</sub>
 </p>
 
-```text
-"hey, can you open Safari and find weather forecast" -> "open Safari.app and seach 'weather forecast'"
-"set volume to 30 percent" -> "volume 30%"
-"what's the battery level right now" -> "battery now on the macbook"
-"date now" -> "date"
-"show me current time" -> "time now"
-"zip my Downloads folder" -> "to zip Downloads folder"
-"please, open the Telegram" -> "open Telegram.app"
-"create a file text" -> "create file 'text'"
-"sleep this computer" -> "sleep"
-"mute music now on the mac" -> "pause music"
-"unmute music, please" -> "play music"
-"restart macbook please now" -> "restart"
-"close now terminal" -> "close Terminal.app"
+<br>
 
-and etc.
-```
+| You say | Command understands |
+|:--------|:-------------------|
+| *"hey, can you open Safari and find weather forecast"* | `open Safari.app and search "weather forecast"` |
+| *"set volume to 30 percent"* | `volume 30%` |
+| *"what's the battery level right now"* | `battery` |
+| *"show me current time"* | `time` |
+| *"zip my Downloads folder"* | `zip folder Downloads` |
+| *"please, open Telegram"* | `open Telegram.app` |
+| *"create a file called notes"* | `create file notes.txt` |
+| *"sleep this computer"* | `sleep` |
+| *"mute the sound please"* | `mute` |
+| *"unmute, thanks"* | `unmute` |
+| *"restart my macbook right now"* | `restart` |
+| *"close terminal please"* | `close Terminal.app` |
+| *"lock my screen"* | `lock screen` |
+| *"take a screenshot"* | `take screenshot` |
+| *"remind me in 5 minutes to stand up"* | `remind me in 5 minutes` |
+
+<br>
+
+<p align="center">
+  <sub>· no memorization · just speak naturally ·</sub>
+</p>
 
 **System**
 ```text

@@ -40,7 +40,13 @@
 
 ---
 
-## Quick Start
+<p align="center">
+  <strong>🚀 &nbsp; Q U I C K &nbsp; S T A R T &nbsp; 🚀</strong>
+</p>
+
+<p align="center">
+  <sub>install & run in 5 commands</sub>
+</p>
 
 ```bash
 # 1. Download
@@ -61,7 +67,13 @@ open /Applications/Command\ Siri.app
 
 --- 
 
-## Usage
+<p align="center">
+  <strong>🎮 &nbsp; U S A G E &nbsp; 🎮</strong>
+</p>
+
+<p align="center">
+  <sub>voice mode · text mode · settings</sub>
+</p>
 
 **Voice mode**
 1. Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd>
@@ -84,7 +96,13 @@ open /Applications/Command\ Siri.app
 
 ---
 
-## Commands reference
+<p align="center">
+  <strong>📦 &nbsp; C O M M A N D S &nbsp; R E F E R E N C E &nbsp; 📦</strong>
+</p>
+
+<p align="center">
+  <sub>everything you can say · system · apps · files · info · weather · shortcuts</sub>
+</p>
 
 **System**
 ```text

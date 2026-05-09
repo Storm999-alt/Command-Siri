@@ -51,3 +51,34 @@ xattr -d com.apple.quarantine /Applications/Command\ Siri.app
 
 # 5. Launch
 open /Applications/Command\ Siri.app
+```
+
+## Usage
+
+Voice mode
+Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd>
+
+Speak a command
+
+Press <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd> again to execute
+
+Text mode
+Press <kbd>T</kbd>
+
+Type your command
+
+Press <kbd>Enter</kbd> to execute
+
+## Settings
+
+Click the slider icon (bottom center) to adjust:
+
+Microphone sensitivity
+
+Visual effects intensity
+
+Sound hints
+
+Quiet start
+
+Window behavior on focus loss

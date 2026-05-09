@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="128" height="128">
+  <img src="logo.png" width="200" height="200">
 </p>
 
 <h1 align="center">Command Siri</h1>

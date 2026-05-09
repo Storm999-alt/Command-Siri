@@ -115,6 +115,7 @@ open /Applications/Command\ Siri.app
 | `brightness 50` | "set brightness to 50", "make screen darker" |
 | `open Safari` | "launch Safari", "start Safari" |
 | `close Safari` | "quit Safari", "shut Safari" |
+| `screenshot` | "screenshot" |
 
 ---
 
@@ -143,6 +144,7 @@ open /Applications/Command\ Siri.app
 | *"close terminal please"* | `close Terminal.app` |
 | *"lock my screen"* | `lock screen` |
 | *"show me memory on the macbook"* | `memory`|
+| *"screenshot now please"* | `screenshot`|
 
 <br>
 

@@ -101,8 +101,42 @@ open /Applications/Command\ Siri.app
 </p>
 
 <p align="center">
-  <sub>everything you can say · system · apps · files · info · weather · shortcuts</sub>
+  <sub>you can speak naturally · not just fixed phrases</sub>
 </p>
+
+**You don't have to memorize exact words. Say it your way.**
+
+| Instead of | You can say |
+|------------|-------------|
+| `shutdown` | "turn off my computer", "power down", "shut down" |
+| `restart` | "reboot", "restart my mac" |
+| `sleep` | "go to sleep", "sleep mode" |
+| `lock screen` | "lock my mac", "lock screen" |
+| `brightness 50` | "set brightness to 50", "make screen darker" |
+| `open Safari` | "launch Safari", "start Safari" |
+| `close Safari` | "quit Safari", "shut Safari" |
+
+---
+
+### Natural language examples
+
+```text
+"hey, can you open Safari and find weather forecast" -> "open Safari.app and seach 'weather forecast'"
+"set volume to 30 percent" -> "volume 30%"
+"what's the battery level right now" -> "battery now on the macbook"
+"date now" -> "date"
+"show me current time" -> "time now"
+"zip my Downloads folder" -> "to zip Downloads folder"
+"please, open the Telegram" -> "open Telegram.app"
+"create a file text" -> "create file 'text'"
+"sleep this computer" -> "sleep"
+"mute music now on the mac" -> "pause music"
+"unmute music, please" -> "play music"
+"restart macbook please now" -> "restart"
+"close now terminal" -> "close Terminal.app"
+
+and etc.
+```
 
 **System**
 ```text

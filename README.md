@@ -146,3 +146,37 @@ weather London              → Shows temperature and conditions
 weather moscow              → Works for any city
 ```
 *Internet required for weather only*
+
+---
+
+<p align="center">
+  <strong>◈ ◈ ◈  &nbsp; L I C E N S E &nbsp; ◈ ◈ ◈</strong>
+</p>
+
+<p align="center">
+  <sub>personal · non-commercial · all rights reserved</sub>
+</p>
+
+<p align="center">
+  © 2026 Paul. All rights reserved.
+</p>
+
+<p align="center">
+  <strong>Personal, non-commercial use only.</strong>
+</p>
+
+<br>
+
+| | |
+|:-|:-|
+| ◇ | Download and use for free |
+| ◇ | Share the link with friends |
+| ◆ | Commercial sale or distribution |
+| ◆ | Modifying and redistributing |
+| ◆ | Removing author credits |
+
+<br>
+
+<p align="center">
+  <sub>· proprietary software · all rights reserved ·</sub>
+</p>

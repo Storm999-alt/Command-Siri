@@ -21,8 +21,6 @@
 
 ---
 
-## ✨ Features
-
 <p align="center">
   <strong>✨ &nbsp; F E A T U R E S &nbsp; ✨</strong>
 </p>

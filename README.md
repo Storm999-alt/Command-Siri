@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <strong>✨ &nbsp; F E A T U R E S &nbsp; ✨</strong>
+  <strong>■ ■ ■  &nbsp; F E A T U R E S &nbsp; ■ ■ ■ </strong>
 </p>
 
 <p align="center">

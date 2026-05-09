@@ -134,7 +134,6 @@ open /Applications/Command\ Siri.app
 | *"set volume to 30 percent"* | `volume 30%` |
 | *"what's the battery level right now"* | `battery` |
 | *"show me current time"* | `time` |
-| *"zip my Downloads folder"* | `zip folder Downloads` |
 | *"please, open Telegram"* | `open Telegram.app` |
 | *"create a file called notes"* | `create file notes.txt` |
 | *"sleep this computer"* | `sleep` |
@@ -143,8 +142,7 @@ open /Applications/Command\ Siri.app
 | *"restart my macbook right now"* | `restart` |
 | *"close terminal please"* | `close Terminal.app` |
 | *"lock my screen"* | `lock screen` |
-| *"take a screenshot"* | `take screenshot` |
-| *"remind me in 5 minutes to stand up"* | `remind me in 5 minutes` |
+| *"show me memory on the macbook"* | `memory`|
 
 <br>
 
@@ -175,8 +173,6 @@ open Chrome and find cats   → Searches in Chrome
 ```text
 create file test.txt        → Creates file on Desktop
 open folder Projects        → Opens ~/Documents/Projects
-zip folder Downloads        → Archives Downloads folder
-take screenshot             → Saves screenshot to Desktop
 ```
 
 **System Info**

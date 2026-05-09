@@ -23,6 +23,14 @@
 
 ## ✨ Features
 
+<p align="center">
+  <strong>✨ &nbsp; F E A T U R E S &nbsp; ✨</strong>
+</p>
+
+<p align="center">
+  <sub>what you can do with your voice</sub>
+</p>
+
 | Category | Commands |
 |----------|----------|
 | **System** | `shutdown`, `restart`, `sleep`, `lock screen`, `brightness 50`, `volume 30`, `mute`, `unmute` |

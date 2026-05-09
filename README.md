@@ -118,7 +118,13 @@ open /Applications/Command\ Siri.app
 
 ---
 
-### Natural language examples
+<p align="center">
+  <strong>■ ■ ■  &nbsp; N A T U R A L &nbsp; L A N G U A G E &nbsp; E X A M P L E S &nbsp; ■ ■ ■ </strong>
+</p>
+
+<p align="center">
+  <sub>speak as you wish</sub>
+</p>
 
 ```text
 "hey, can you open Safari and find weather forecast" -> "open Safari.app and seach 'weather forecast'"

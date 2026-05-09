@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-11.0+-blue">
-  <img src="https://img.shields.io/badge/Swift-5.9-orange">
   <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red">
   <img src="https://img.shields.io/badge/offline-yes-brightgreen">
 </p>

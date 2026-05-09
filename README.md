@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <strong>🚀 &nbsp; Q U I C K &nbsp; S T A R T &nbsp; 🚀</strong>
+  <strong>■ ■ ■  &nbsp; Q U I C K &nbsp; S T A R T &nbsp; ■ ■ ■ </strong>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ open /Applications/Command\ Siri.app
 --- 
 
 <p align="center">
-  <strong>🎮 &nbsp; U S A G E &nbsp; 🎮</strong>
+  <strong>■ ■ ■  &nbsp; U S A G E &nbsp; ■ ■ ■ </strong>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ open /Applications/Command\ Siri.app
 ---
 
 <p align="center">
-  <strong>📦 &nbsp; C O M M A N D S &nbsp; R E F E R E N C E &nbsp; 📦</strong>
+  <strong>■ ■ ■  &nbsp; C O M M A N D S &nbsp; R E F E R E N C E &nbsp; ■ ■ ■ </strong>
 </p>
 
 <p align="center">

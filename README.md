@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <strong>◈ ◈ ◈  &nbsp; 📺 &nbsp; D E M O &nbsp; 📺 &nbsp; ◈ ◈ ◈</strong>
+  <strong>◈ ◈ ◈  &nbsp; 📺 &nbsp; D E M O &nbsp; V I D E O &nbsp; 📺 &nbsp; ◈ ◈ ◈</strong>
 </p>
 
 <p align="center">

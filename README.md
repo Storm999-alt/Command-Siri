@@ -165,17 +165,13 @@ weather moscow              → Works for any city
   <strong>Personal, non-commercial use only.</strong>
 </p>
 
-<br>
-
-| | |
-|:-|:-|
-| ◇ | Download and use for free |
-| ◇ | Share the link with friends |
-| ◆ | Commercial sale or distribution |
-| ◆ | Modifying and redistributing |
-| ◆ | Removing author credits |
-
-<br>
+<p align="center">
+  <code>✓</code> Download and use for free<br>
+  <code>✓</code> Share the link with friends<br>
+  <code>✗</code> Commercial sale or distribution<br>
+  <code>✗</code> Modifying and redistributing<br>
+  <code>✗</code> Removing author credits
+</p>
 
 <p align="center">
   <sub>· proprietary software · all rights reserved ·</sub>

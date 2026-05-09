@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Storm999-alt/Command-Siri/main/assets/icon.png" width="128" height="128">
+</p>
 
 <h1 align="center">Command Siri</h1>
 
@@ -37,7 +39,7 @@
 
 ```bash
 # 1. Download
-curl -LO https://github.com/yourname/Command-Siri/releases/download/v1.0/Command.Siri.zip
+curl -LO https://github.com/Storm999-alt/Command-Siri/releases/download/v1.0/Command.Siri.zip
 
 # 2. Unzip
 unzip Command.Siri.zip -d CommandSiri

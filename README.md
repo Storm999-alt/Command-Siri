@@ -41,6 +41,26 @@
 ---
 
 <p align="center">
+  <strong>◈ ◈ ◈  &nbsp; 📺 &nbsp; D E M O &nbsp; 📺 &nbsp; ◈ ◈ ◈</strong>
+</p>
+
+<p align="center">
+  <sub>installation guide · features overview</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/zFsZpnsYS9c">
+    <img src="https://img.youtube.com/vi/zFsZpnsYS9c/maxresdefault.jpg" width="640" alt="Command Siri Demo">
+  </a>
+</p>
+
+<p align="center">
+  <sub>click to watch · 2 minutes</sub>
+</p>
+
+---
+
+<p align="center">
   <strong>■ ■ ■  &nbsp; Q U I C K &nbsp; S T A R T &nbsp; ■ ■ ■ </strong>
 </p>
 

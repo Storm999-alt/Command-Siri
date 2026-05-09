@@ -150,7 +150,7 @@ weather moscow              → Works for any city
 ---
 
 <p align="center">
-  <strong>◈ ◈ ◈  &nbsp; L I C E N S E &nbsp; ◈ ◈ ◈</strong>
+  <strong>  &nbsp; L I C E N S E &nbsp; </strong>
 </p>
 
 <p align="center">
